@@ -1,6 +1,5 @@
 ## Phishing Attack Domain Detection with Machine Learning
 
-#### 🔥 Official Website 👉 [phishr.vercel.app](https://phishr.vercel.app/)
 Enter any URL and our Machine Learning model will scan the URL and tell you if its malicious or not.
 <br/>
 
